@@ -12,7 +12,7 @@ Some general prerequisites are needed before you start creating your first ZotBi
 - Basic Knowledge in Circuits
 - Basic Knowledge in CAD and 3D printing
 
-A bill of materials is attached here.
+A bill of materials is attached [here](https://docs.google.com/spreadsheets/d/1OZLkyIseQefw8cpbeIXbIDLdWWCKdwdh0UwQTJzO-Qg/edit?usp=sharing).
 
 ## Hardware
 
@@ -22,10 +22,7 @@ The ZotBins is run through a Raspberry Pi which controls all of the various sens
 
 There are four main sensors included in the ZotBins:
 
-- [Breakbeam Sensor](#) (More Information)
-- [Ultrasonic/Fullness Sensor](#) (More Information)
-- [Weight Sensor](#) (More Information)
-- [Camera](#) (More Information)
-
-## Course Plan
-
+- [Breakbeam Sensor](https://github.com/zotbins/zotbins-project/blob/main/sensors/Breakbeam.md)
+- [Ultrasonic/Fullness Sensor](https://github.com/zotbins/zotbins-project/blob/main/sensors/Ultrasonic.md)
+- [Weight Sensor](https://github.com/zotbins/zotbins-project/blob/main/sensors/Weight.md)
+- [Camera](https://github.com/zotbins/zotbins-project/blob/main/sensors/Camera.md)

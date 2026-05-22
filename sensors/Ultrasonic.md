@@ -30,7 +30,10 @@ The sensor works in two steps:
 |------------|----------|----|
 | ECHO pin → | 1kΩ | GPIO input pin |
 | GPIO input pin → | 2kΩ | GND |
+
+
 This brings the 5V signal down to approximately 3.3V, which is safe for the Pi.
+
  ![Voltage Divider](https://raw.githubusercontent.com/zotbins/zotbins-project/main/images/voltage_divider.png)
 
 ---
